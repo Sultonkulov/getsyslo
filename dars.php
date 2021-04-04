@@ -7,5 +7,5 @@ echo "<p style='color:red'>".$a.'<br>'.$b.$c."</p>";
 echo gettype($a);
 echo $f = (int)$f;
 echo var_dump($a);
-
+echo "Hello World";
 ?>
